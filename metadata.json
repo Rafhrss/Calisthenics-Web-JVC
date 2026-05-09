@@ -1,0 +1,6 @@
+{
+  "name": "CaliCode",
+  "description": "Workout counter for software engineers to perform calisthenics routines while waiting for AI agents to finish long-running tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
